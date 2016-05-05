@@ -33,3 +33,9 @@ Intel(R) System Studio for Microcontrollers Components
  - Python™ 2.7.10 §
 
 
+Prerequisites
+
+-  The package supports x64 host architecture only
+-  Java* Runtime Environment version 1.7 or higher must be installed in order to use Eclipse Luna IDE.
+-  D2000 board should be plugged in the host PC in order to properly install the Microsoft* Winusb driver (user can reinstall the driver later)
+-  Internet connection is required to install the TinyCrypt component
