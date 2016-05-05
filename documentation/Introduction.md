@@ -39,3 +39,5 @@ Prerequisites
 -  Java* Runtime Environment version 1.7 or higher must be installed in order to use Eclipse Luna IDE.
 -  D2000 board should be plugged in the host PC in order to properly install the Microsoft* Winusb driver (user can reinstall the driver later)
 -  Internet connection is required to install the TinyCrypt component
+
+file:///C:/IntelSWTools/ISSM_2016.0.027/docs/get_started.htm
