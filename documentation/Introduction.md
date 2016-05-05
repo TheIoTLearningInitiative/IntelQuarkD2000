@@ -14,9 +14,9 @@ Introduction
 
 Intel® Quark™ Microcontroller Targets
 
-D1000
-D2000
-SE
-Intel Curie Module
+- D1000
+- D2000
+- SE
+- Intel Curie Module
 
 
