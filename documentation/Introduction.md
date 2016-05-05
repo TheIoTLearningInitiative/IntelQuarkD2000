@@ -20,3 +20,16 @@ Intel® Quark™ Microcontroller Targets
 - Intel Curie Module
 
 
+Intel(R) System Studio for Microcontrollers Components:
+  GCC C/C++ Compiler 5.2.1 §
+  GNU* GDB 7.9 §
+  OpenOCD 0.8.0 §
+  WinUSB driver for Intel® Quark™ Microcontrollers
+  TinyCrypt 0.1.0
+  Intel® Quark™ Microcontrollers Software Interface 1.0
+  Intel® IPP Library for Microcontrollers 1.0
+  GNU utilities §
+  Eclipse* Luna 4.4 IDE §
+  Python™ 2.7.10 §
+
+
