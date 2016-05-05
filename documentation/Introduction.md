@@ -9,3 +9,7 @@ Introduction
 > - Develop efficiently in an Eclipse* integrated development environment (IDE).
 > - Build fast, compact code with optimizing compilers and libraries.
 > - Ensure quality, power efficiency, and performance with debugger and analyzer.
+
+Intel® Quark™ Microcontroller Targets
+
+
