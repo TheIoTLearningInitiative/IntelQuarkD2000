@@ -19,8 +19,8 @@ Intel® Quark™ Microcontroller Targets
 - SE
 - Intel Curie Module
 
+Intel(R) System Studio for Microcontrollers Components
 
-Intel(R) System Studio for Microcontrollers Components:
  - GCC C/C++ Compiler 5.2.1 §
  - GNU* GDB 7.9 §
  - OpenOCD 0.8.0 §
