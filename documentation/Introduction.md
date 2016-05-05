@@ -10,6 +10,13 @@ Introduction
 > - Build fast, compact code with optimizing compilers and libraries.
 > - Ensure quality, power efficiency, and performance with debugger and analyzer.
 
+- [Intel® System Studio for Microcontrollers Homepage](https://software.intel.com/intel-system-studio-microcontrollers)
+
 Intel® Quark™ Microcontroller Targets
+
+D1000
+D2000
+SE
+Intel Curie Module
 
 
