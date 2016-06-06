@@ -4,6 +4,8 @@
 
 # Intel® Quark™ Microcontroller Developer Kit D2000
 
+> The Intel® Quark™ microcontroller developer kit D2000 consists of a small form-factor board which contains among other things flash storage, a 6-axis compass/accelerometer with temperature sensor, an Arduino-Uno compatible shield’s interface and a booster-pack compatible shield’s interface. A USB connection enables programming and debugging (JTAG) of the development platform. The software tool chain for the development platform is provided by Intel® System Studio for microcontrollers, which is an Eclipse-based* IDE for developing, optimizing and debugging applications. Features include the GNU compiler collection (GCC), Intel® Integrated Performance Primitives for microcontrollers, the board support package for the Intel® Quark™ microcontroller software interface (Intel® QMSI) and sample applications.
+
 # Intel® System Studio for Microcontrollers
 
 > Tools for Intel® Quark™ Microcontroller Software Developers
