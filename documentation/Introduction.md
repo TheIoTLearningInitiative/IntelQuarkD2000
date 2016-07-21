@@ -45,3 +45,7 @@ Prerequisites
 -  Internet connection is required to install the TinyCrypt component
 
 file:///C:/IntelSWTools/ISSM_2016.0.027/docs/get_started.htm
+
+# Mouser
+
+- [](http://www.mouser.com/new/Intel/intel-d2000-dev-kit/)
