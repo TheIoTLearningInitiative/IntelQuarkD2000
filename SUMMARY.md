@@ -2,6 +2,6 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* Hardware
+* [Hardware](documentation/Hardware.md)
 * [Sandbox](documentation/Sandbox.md)
 
